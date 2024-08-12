@@ -49,7 +49,7 @@
     $navbarClass = ''; 
     $searchBoxClass = false; 
     $showLoginDropdown = false; 
-    include 'components/navbar.php';
+    include '../components/navbar.php';
     ?>
 
     <main>
@@ -119,7 +119,7 @@
     </main>
 
     <!-- Footer -->
-    <?php include 'components/footer.php'; ?>
+    <?php include '../components/footer.php'; ?>
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"

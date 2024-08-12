@@ -236,7 +236,7 @@
                 Đại An and Hàm Giang communes, as well as the sedge mat
                 weaving village in Hàm Tân, …
               </p>
-              <a href="blog/b1.html" class="button">Read more</a>
+              <a href="blog/b1.php" class="button">Read more</a>
             </div>
           </div>
         </div>
